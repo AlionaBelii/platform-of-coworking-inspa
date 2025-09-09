@@ -1,12 +1,20 @@
-# React + Vite
+# platform-of-coworking-inspa
+A modern, community‑driven platform that helps design company manages tasks in real time, build online portofolio for workers and share progress openly.
+(still in process)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+___________________________________________________________
+🚀 Tech Stack:
+Frontend: HTML, CSS, JavaScript, React, Vite Tailwind CSS
+Backend: Node.js
+Database: MySQL
+Additional Libraries:
+React Router for navigation,
+React Hooks for state management,
+React Icons for icons,
+SwiperJS for carousels and sliders,
+Framer Motion for animations,
+Development Tools: Git, DBeaver, Docker
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+__________________________________________________________
+npm install
+npm run dev
