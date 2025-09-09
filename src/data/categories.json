@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "type": "Illustration",
+        "role": "Illustrator"
+    },
+    {
+        "id": 2,
+        "type": "UI/UX Design",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": 3,
+        "type": "Branding",
+        "role": "Branding Designer"
+    },
+    {
+        "id": 4,
+        "type": "Social Media Design",
+        "role": "Social Media Designer"
+    },
+    {
+        "id": 5,
+        "type": "Motion Video",
+        "role": "Motion Designer"
+    }
+]

@@ -1,0 +1,669 @@
+[
+    {
+        "full_name": "Sabrina Juica",
+        "photo": "client_1.jpg",
+        "company_name": "CEO Company",
+        "e-mail": "sabrinajuica@inbox.com",
+        "tel": "+373 75-755-555",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Creation of logotype - Crofox",
+                "project_type": "Branding",
+                "description": "I need logo in minimalistic design: maximum 3 colors, symbolizing a market and online shopping place.",
+                "deadline": "30.05.2025",
+                "price": 150,
+                "designer": "Dan Tutun",
+                "completed": 25,
+                "status": "in process"
+            },
+            {
+                "title": "Creation of logotype - Marseille",
+                "project_type": "Branding",
+                "description": "I need logo in minimalistic design: maximum 3 colors, symbolizing a market and online shopping place.",
+                "deadline": "30.07.2025",
+                "price": 140,
+                "designer": "Dan Tutun",
+                "completed": 0,
+                "status": "in process"
+            },
+            {
+                "title": "Creation of illustration",
+                "project_type": "Illustration",
+                "description": "I need logo in minimalistic design: maximum 3 colors, symbolizing a market and online shopping place.",
+                "deadline": "30.05.2025",
+                "price": 150,
+                "designer": "Maya Patel",
+                "completed": 25,
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Visual Key for Wine Day",
+                "project_type": "Branding",
+                "price": 300,
+                "designer": "Dan Tutun",
+                "status": "completed"
+            },
+            {
+                "title": "Visual Key for Kids Day",
+                "project_type": "Branding",
+                "price": 300,
+                "designer": "Dan Tutun",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Motion Video - Wine Day",
+                "project_type": "Motion Video",
+                "price": 250,
+                "designer": "Marina Jalbu",
+                "status": "pending"
+            },
+            {
+                "title": "Motion Video - Mother Day",
+                "project_type": "Motion Video",
+                "price": 250,
+                "designer": "Nastea Cuceriavik",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Dan Tutun"
+            }
+        ]
+    },
+    {
+        "full_name": "Daniel Rusu",
+        "photo": "no-photo.png",
+        "company_name": "Personal",
+        "e-mail": "danielrusu@example.com",
+        "tel": "+373 60-924620",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Illustrator Project - Ongoing",
+                "project_type": "Illustrator",
+                "price": 388,
+                "designer": "Corina Mitu",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Illustrator Project - Completed",
+                "project_type": "Illustrator",
+                "price": 272,
+                "designer": "Corina Mitu",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Illustrator Project - Pending",
+                "project_type": "Illustrator",
+                "price": 133,
+                "designer": "Corina Mitu",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Corina Mitu"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Corina Mitu"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Corina Mitu"
+            }
+        ]
+    },
+    {
+        "full_name": "Marin Croitor",
+        "photo": "no-photo.png",
+        "company_name": "Adrian Corp",
+        "e-mail": "marincroitor@example.com",
+        "tel": "+373 60-324439",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Illustrator Project - Ongoing",
+                "project_type": "Illustrator",
+                "price": 226,
+                "designer": "Adrian Nguyen",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Illustrator Project - Completed",
+                "project_type": "Illustrator",
+                "price": 133,
+                "designer": "Adrian Nguyen",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Illustrator Project - Pending",
+                "project_type": "Illustrator",
+                "price": 324,
+                "designer": "Adrian Nguyen",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Adrian Nguyen"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Adrian Nguyen"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Adrian Nguyen"
+            }
+        ]
+    },
+    {
+        "full_name": "Castela Henfica",
+        "photo": "no-photo.png",
+        "company_name": "Sophia Corp",
+        "e-mail": "castelahenfica@example.com",
+        "tel": "+373 60-474382",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Illustrator Project - Ongoing",
+                "project_type": "Illustrator",
+                "price": 335,
+                "designer": "Sophia Martelli",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Illustrator Project - Completed",
+                "project_type": "Illustrator",
+                "price": 101,
+                "designer": "Sophia Martelli",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Illustrator Project - Pending",
+                "project_type": "Illustrator",
+                "price": 138,
+                "designer": "Sophia Martelli",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Sophia Martelli"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Sophia Martelli"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Sophia Martelli"
+            }
+        ]
+    },
+    {
+        "full_name": "Katrine Jolesca",
+        "photo": "no-photo.png",
+        "company_name": "Jonas Corp",
+        "e-mail": "katrina@example.com",
+        "tel": "+373 60-943037",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Illustrator Project - Ongoing",
+                "project_type": "Illustrator",
+                "price": 111,
+                "designer": "Jonas Eriksson",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Illustrator Project - Completed",
+                "project_type": "Illustrator",
+                "price": 296,
+                "designer": "Jonas Eriksson",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Illustrator Project - Pending",
+                "project_type": "Illustrator",
+                "price": 397,
+                "designer": "Jonas Eriksson",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Jonas Eriksson"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Jonas Eriksson"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Jonas Eriksson"
+            }
+        ]
+    },
+    {
+        "full_name": "Yoka Dandu",
+        "photo": "client_2.png",
+        "company_name": "YOKA SRL",
+        "e-mail": "yokadandu@example.com",
+        "tel": "+373 60-796774",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Illustrator Project - Ongoing",
+                "project_type": "Illustrator",
+                "price": 368,
+                "designer": "Maya Patel",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Illustrator Project - Completed",
+                "project_type": "Illustrator",
+                "price": 177,
+                "designer": "Maya Patel",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Illustrator Project - Pending",
+                "project_type": "Illustrator",
+                "price": 152,
+                "designer": "Maya Patel",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Maya Patel"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Maya Patel"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Maya Patel"
+            }
+        ]
+    },
+    {
+        "full_name": "Ion Furlac",
+        "photo": "client_3.png",
+        "company_name": "Furlac SO",
+        "e-mail": "ionfurlac@example.com",
+        "tel": "+373 60-326400",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Ongoing",
+                "project_type": "UI/UX Design",
+                "price": 261,
+                "designer": "Sorin Cavaleru",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Completed",
+                "project_type": "UI/UX Design",
+                "price": 398,
+                "designer": "Sorin Cavaleru",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Ui/Ux Designer Project - Pending",
+                "project_type": "UI/UX Design",
+                "price": 204,
+                "designer": "Sorin Cavaleru",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Sorin Cavaleru"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Sorin Cavaleru"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Sorin Cavaleru"
+            }
+        ]
+    },
+    {
+        "full_name": "Iulian Cretu",
+        "photo": "client_4.png",
+        "company_name": "Creation-Co SRL",
+        "e-mail": "iuliancretu@example.com",
+        "tel": "+373 60-745510",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Ongoing",
+                "project_type": "UI/UX Design",
+                "price": 390,
+                "designer": "Viorica Burlac",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Completed",
+                "project_type": "UI/UX Design",
+                "price": 288,
+                "designer": "Viorica Burlac",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Ui/Ux Designer Project - Pending",
+                "project_type": "UI/UX Design",
+                "price": 389,
+                "designer": "Viorica Burlac",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Viorica Burlac"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Viorica Burlac"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Viorica Burlac"
+            }
+        ]
+    },
+    {
+        "full_name": "Tom Cruz",
+        "photo": "no-photo.png",
+        "company_name": "Personal",
+        "e-mail": "tomcruz@example.com",
+        "tel": "+373 60-504498",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Ongoing",
+                "project_type": "UI/UX Design",
+                "price": 239,
+                "designer": "Cornel Havaliuc",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Completed",
+                "project_type": "UI/UX Design",
+                "price": 206,
+                "designer": "Cornel Havaliuc",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Ui/Ux Designer Project - Pending",
+                "project_type": "UI/UX Design",
+                "price": 183,
+                "designer": "Cornel Havaliuc",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Cornel Havaliuc"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Cornel Havaliuc"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Cornel Havaliuc"
+            }
+        ]
+    },
+    {
+        "full_name": "Lorica Tamadu",
+        "photo": "client_5.png",
+        "company_name": "Nadejda Corporation",
+        "e-mail": "nadejdaco@example.com",
+        "tel": "+373 60-177752",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Ongoing",
+                "project_type": "UI/UX Design",
+                "price": 223,
+                "designer": "Nadejda Solnecinaia",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Completed",
+                "project_type": "UI/UX Design",
+                "price": 130,
+                "designer": "Nadejda Solnecinaia",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Ui/Ux Designer Project - Pending",
+                "project_type": "UI/UX Design",
+                "price": 344,
+                "designer": "Nadejda Solnecinaia",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Nadejda Solnecinaia"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Nadejda Solnecinaia"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Nadejda Solnecinaia"
+            }
+        ]
+    },
+    {
+        "full_name": "Onica Gorlin",
+        "photo": "no-photo.png",
+        "company_name": "Marin Corp",
+        "e-mail": "onicagor@example.com",
+        "tel": "+373 60-814160",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Ongoing",
+                "project_type": "UI/UX Design",
+                "price": 267,
+                "designer": "Marin Patruna",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Ui/Ux Designer Project - Completed",
+                "project_type": "UI/UX Design",
+                "price": 273,
+                "designer": "Marin Patruna",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Ui/Ux Designer Project - Pending",
+                "project_type": "UI/UX Design",
+                "price": 106,
+                "designer": "Marin Patruna",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Marin Patruna"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Marin Patruna"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Marin Patruna"
+            }
+        ]
+    },
+    {
+        "full_name": "Ionel Baciu",
+        "photo": "no-photo.png",
+        "company_name": "Personal",
+        "e-mail": "ionelbaciu@example.com",
+        "tel": "+373 60-204287",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Branding Designer Project - Ongoing",
+                "project_type": "Branding Designer",
+                "price": 177,
+                "designer": "Loredana Sirguina",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Branding Designer Project - Completed",
+                "project_type": "Branding Designer",
+                "price": 336,
+                "designer": "Loredana Sirguina",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Branding Designer Project - Pending",
+                "project_type": "Branding Designer",
+                "price": 181,
+                "designer": "Loredana Sirguina",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Loredana Sirguina"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Loredana Sirguina"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Loredana Sirguina"
+            }
+        ]
+    },
+    {
+        "full_name": "Arsenii Pirajkov",
+        "photo": "no-photo.png",
+        "company_name": "Pirajeinoe SRL",
+        "e-mail": "pirajeinoe@example.com",
+        "tel": "+373 60-513953",
+        "role": "Client",
+        "ongoing_projects": [
+            {
+                "title": "Branding Designer Project - Ongoing",
+                "project_type": "Branding Designer",
+                "price": 172,
+                "designer": "Maxmiliana Voinicu",
+                "status": "in process"
+            }
+        ],
+        "completed_projects": [
+            {
+                "title": "Branding Designer Project - Completed",
+                "project_type": "Branding Designer",
+                "price": 223,
+                "designer": "Maxmiliana Voinicu",
+                "status": "completed"
+            }
+        ],
+        "pending_approvals": [
+            {
+                "title": "Branding Designer Project - Pending",
+                "project_type": "Branding Designer",
+                "price": 114,
+                "designer": "Maxmiliana Voinicu",
+                "status": "pending"
+            }
+        ],
+        "reviews": [
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Maxmiliana Voinicu"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Maxmiliana Voinicu"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt felis nec sagittis blandit. Sed fermentum volutpat mauris quis bibendum. Sed et felis vel felis maximus mollis. Fusce consectetur consectetur purus, at fermentum arcu iaculis vitae. ",
+                "designer": "Maxmiliana Voinicu"
+            }
+        ]
+    }
+
+]

@@ -1,0 +1,328 @@
+[
+    {
+        "user_login": "jimmy_davil",
+        "user_name": "Jimmy Davil",
+        "role": "Client",
+        "photo": "user-1.jpg",
+        "e_mail": "jimmydavil@gmail.com",
+        "phone_number": "+373 69-738-748",
+        "company_name": "Personal",
+        "ongoing_project":
+        [
+            {
+                "title": "Logotype - Crofox",
+                "id": 1,
+                "category": "Branding",
+                "description": "I need logo in minimalistic design: maximum 3 colors, symbolizing a market and online shopping place.",
+                "deadline": "30.07.2025",
+                "price": 150,
+                "designer": "Loredana Sirguina",
+                "completed": 85,
+                "notifications":
+                [
+                    {   
+                        "status": "new",
+                        "id": 1,
+                        "from": "Loredana Sirguina",
+                        "to": "Jimmy Davil",
+                        "text": "Hi there! 👋 <br /> <br /> I’ve started exploring some initial ideas for the CroFox logo based on our earlier discussion. I’d love your feedback on the overall direction — clean, modern, and bold. Here are a few color palettes I think could work well, but feel free to suggest alternatives. Should we go more geometric, or would you prefer an abstract symbol? Also, do you want to include the “Fox” visual element in the logo or keep it purely typographic? Let me know if there are any logos you’ve seen lately that you like — always helpful for reference. Once we align on style and colors, I’ll send the first design drafts this week. Looking forward to your thoughts! <br /> <br /> - Loredana",
+                        "files_attached":
+                        [
+                            {
+                                "name": "logo_visual1.png"
+                            },
+                            {
+                                "name": "logo_visual2.png"
+                            }
+                        ]
+                    
+                    }
+                ]
+            },
+            {
+                "title": "Illustration - Fox in the office",
+                "id": 2,
+                "category": "Illustration",
+                "description": "I need an illustration for my company, which symbol is fox working and connecting with collegues in the office",
+                "deadline": "30.07.2025",
+                "price": 50,
+                "designer": "Corina Mitu",
+                "completed": 25,
+                "notifications":
+                [
+                    {   
+                        "status": "new",
+                        "id": 2,
+                        "from": "Loredana Sirguina",
+                        "to": "Jimmy Davil",
+                        "text": "Hi there! 👋 <br /><br /> I’ve begun drafting some concepts for the Lumina brand identity based on our conversation. I'm aiming for something sleek and minimal, with a touch of personality. I’d love your input on the vibe — should we go more futuristic or organic? I’ve also explored a few font pairings that could fit nicely — happy to share! Let me know if you have any brand inspirations or colors you’re leaning toward. Once we’re aligned on direction, I’ll move ahead with visual drafts this week. <br /><br /> - Loredana",
+                        "files_attached":
+                        [
+                            {
+                                "name": "logo_visual1.png"
+                            },
+                            {
+                                "name": "logo_visual2.png"
+                            }
+                        ]
+                    
+                    }
+                ]
+            },
+            {
+                "title": "Social media templates for posts of Crofox company",
+                "id": 3,
+                "category": "Social Media Deisgn",
+                "description": "I need templates to use for my social media Instagram - reels, posts, events, stories.",
+                "deadline": "07.08.2025",
+                "price": 180,
+                "designer": "Luca Lupu",
+                "completed": 50,
+                "notifications":
+                [
+                    {   
+                        "status": "new",
+                        "id": 3,
+                        "from": "Loredana Sirguina",
+                        "to": "Jimmy Davil",
+                        "text": "Hey! 👋 <br /><br /> I’ve been sketching out some early ideas for your new app icon — clean, punchy, and instantly recognizable. I'd really appreciate your take: do you prefer something symbolic or a letter-based approach? I’ve also gathered a few bold color options we can test. Feel free to drop any references or styles you love. The more I understand your taste, the more on-point the designs will be! Hoping to finalize the direction so I can dive into visuals in the next couple of days. <br /><br /> - Luca",
+                        "files_attached":
+                        [
+                            {
+                                "name": "logo_visual1.png"
+                            },
+                            {
+                                "name": "logo_visual2.png"
+                            }
+                        ]
+                    
+                    }
+                ]
+            }
+        ],
+        "completed_projects":
+        [
+            {
+                "title": "Visual Key for Wine Day",
+                "id": 21,
+                "category": "Branding",
+                "price": "300",
+                "designer": "Loredana Sirguina"
+            },
+            {
+                "title": "Motion video of product - Bottle of wine",
+                "id": 22,
+                "category": "Motion Video",
+                "price": "250",
+                "designer": "Tristan Ocnap"
+            }
+        ],
+        "pending_approvals":
+        [
+            {
+                "title": "Illustration - Halloween Run Day in Cricova",
+                "id": 23,
+                "category": "Illustration",
+                "price": "100",
+                "designer": "Corina Mitu"
+            },
+            {
+                "title": "Illustration - Mother's Day for Cricova",
+                "id": 24,
+                "category": "Illustration",
+                "price": "100",
+                "designer": "Corina Mitu"
+            }   
+        ]
+    },
+      {
+    "user_login": "sofia_ionescu",
+    "user_name": "Sofia Ionescu",
+    "role": "Client",
+    "photo": "user-1.jpg",
+    "e_mail": "sofiaionescu@mail.com",
+    "phone_number": "+373 79-123-456",
+    "company_name": "GreenLeaf Agency",
+    "ongoing_project": [
+      {
+        "title": "Website UI for Eco Products",
+        "category": "UI/UX Design",
+        "description": "Looking for a clean and friendly user interface for our online eco store.",
+        "deadline": "12.08.2025",
+        "price": 300,
+        "designer": "Iulian Sandu",
+        "completed": 40,
+        "notifications": [
+          {
+            "status": "new",
+            "from": "Iulian Sandu",
+            "to": "Sofia Ionescu",
+            "text": "Hi Sofia! 🌿 Just sent over 2 layout options — one is more minimal, the other uses green tones heavily. Let me know what direction to go deeper into.",
+            "files_attached": [
+              { "name": "eco_ui_option1.jpg" },
+              { "name": "eco_ui_option2.jpg" }
+            ]
+          }
+        ]
+      }
+    ],
+    "completed_projects": [
+      {
+        "title": "Logo for GreenLeaf",
+        "category": "Branding",
+        "price": "200",
+        "designer": "Iulian Sandu"
+      }
+    ],
+    "pending_approvals": []
+  },
+  {
+    "user_login": "daniel_cristea",
+    "user_name": "Daniel Cristea",
+    "role": "Client",
+    "photo": "user.png",
+    "e_mail": "daniel.cristea@outlook.com",
+    "phone-number": "+373 78-546-789",
+    "company_name": "Cristea Dev",
+    "ongoing_project": [
+      {
+        "title": "Motion Intro for Dev Portfolio",
+        "category": "Motion Video",
+        "description": "Need an animated intro for personal developer portfolio site — short, sharp, modern.",
+        "deadline": "05.08.2025",
+        "price": 120,
+        "designer": "Tristan Ocnap",
+        "completed": 60,
+        "notifications": [
+          {
+            "status": "new",
+            "from": "Tristan Ocnap",
+            "to": "Daniel Cristea",
+            "text": "Hey Daniel! Check out this draft animation — I kept transitions fast and slick as you asked. Let me know what to change.",
+            "files_attached": [
+              { "name": "intro_draft_v1.mp4" }
+            ]
+          }
+        ]
+      }
+    ],
+    "completed_projects": [],
+    "pending_approvals": []
+  },
+  {
+    "user_login": "ana_munteanu",
+    "user_name": "Ana Munteanu",
+    "role": "Client",
+    "photo": "user.png",
+    "e_mail": "ana.munteanu@gmail.com",
+    "phone-number": "+373 67-987-654",
+    "company_name": "Eventrix",
+    "ongoing_project": [
+      {
+        "title": "Social Media Content for Summer Events",
+        "category": "Social Media Design",
+        "description": "I need 10 templates for social posts, including story animations for weekly events.",
+        "deadline": "25.07.2025",
+        "price": 220,
+        "designer": "Ionela Maiduc",
+        "completed": 70,
+        "notifications": [
+          {
+            "status": "new",
+            "from": "Ionela Maiduc",
+            "to": "Ana Munteanu",
+            "text": "Hi Ana! I’ve created some animated Instagram stories and carousel designs for review. Awaiting your thoughts.",
+            "files_attached": [
+              { "name": "summer_events_story1.mp4" },
+              { "name": "carousel_designs_v1.jpg" }
+            ]
+          }
+        ]
+      }
+    ],
+    "completed_projects": [
+      {
+        "title": "Visual Identity for Eventrix Spring Edition",
+        "category": "Branding",
+        "price": "350",
+        "designer": "Ionela Maiduc"
+      }
+    ],
+    "pending_approvals": []
+  },
+  {
+    "user_login": "tudor_alexei",
+    "user_name": "Tudor Alexei",
+    "role": "Client",
+    "photo": "user.png",
+    "e_mail": "tudoralexei@company.com",
+    "phone-number": "+373 77-456-321",
+    "company_name": "AutoParts MD",
+    "ongoing_project": [
+      {
+        "title": "Illustration for Product Manual Cover",
+        "category": "Illustration",
+        "description": "Need an eye-catching illustration for car parts manual cover.",
+        "deadline": "01.08.2025",
+        "price": 100,
+        "designer": "Corina Mitu",
+        "completed": 55,
+        "notifications": [
+          {
+            "status": "new",
+            "from": "Corina Mitu",
+            "to": "Tudor Alexei",
+            "text": "Hello Tudor, I created a sketch showing gears and tools — let me know if you’d like a more minimal or technical version.",
+            "files_attached": [
+              { "name": "manual_cover_sketch.png" }
+            ]
+          }
+        ]
+      }
+    ],
+    "completed_projects": [],
+    "pending_approvals": [
+      {
+        "title": "Banner Illustration for Promotion",
+        "category": "Illustration",
+        "price": "120",
+        "designer": "Corina Mitu"
+      }
+    ]
+  },
+  {
+    "user_login": "victoria_draghici",
+    "user_name": "Victoria Draghici",
+    "role": "Client",
+    "photo": "user.png",
+    "e_mail": "victoria.draghici@gmail.com",
+    "phone-number": "+373 60-345-678",
+    "company_name": "Momento",
+    "ongoing_project": [
+      {
+        "title": "Brand Identity for Wedding Agency",
+        "category": "Branding",
+        "description": "I need a full brand pack — logo, colors, fonts — for my wedding planning service.",
+        "deadline": "20.08.2025",
+        "price": 400,
+        "designer": "Loredana Sirguina",
+        "completed": 30,
+        "notifications": [
+          {
+            "status": "new",
+            "from": "Loredana Sirguina",
+            "to": "Victoria Draghici",
+            "text": "Hi Victoria 💍 I’m sending you 3 logo proposals and moodboards — please share which style feels best for your brand.",
+            "files_attached": [
+              { "name": "logo_option_a.jpg" },
+              { "name": "logo_option_b.jpg" },
+              { "name": "moodboard.pdf" }
+            ]
+          }
+        ]
+      }
+    ],
+    "completed_projects": [],
+    "pending_approvals": []
+  }
+]

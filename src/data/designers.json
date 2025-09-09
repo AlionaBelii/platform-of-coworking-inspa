@@ -1,0 +1,1236 @@
+[
+    {
+        "full_name": "Corina Mitu",
+        "idCategory": 1,
+        "id": "corina-mitu",
+        "photo": "illustrator_designer_1.png",
+        "projects_count": 215,
+        "experience_years": 5,
+        "reviews_count": 23,
+        "about_me": "Hi, I'm Corina, a passionate Illustrator with over five years of experience bringing stories to life through vibrant visuals. My journey began in traditional art, but I soon discovered a love for digital Illustration and character design. I'm inspired by nature, fashion, and everyday moments, which I often translate into whimsical compositions. Over the years, I've worked with both startups and established brands to create impactful Illustrations for campaigns, packaging, and editorial pieces. My creative process is deeply collaborative. I believe every client's story is unique and deserves a tailored visual language. I'm always excited to explore bold colors and playful styles, while maintaining clear communication throughout every project. I'm committed to delivering work that's not only beautiful but meaningful and strategic. Let's make something magical together!",
+        "role": "Illustrator",
+        "works": [
+            {
+                "type": "Illustration",
+                "name": "Fantasy character",
+                "short_description": "Book cover Illustration for a young adult fantasy novel.",
+                "client": "Aurora Publishing",
+                "photo": "book_cover_aurora.png"
+            },
+            {
+                "type": "Illustration",
+                "name": "Character design",
+                "short_description": "Character design for a mobile RPG game.",
+                "client": "PixelForge Studio",
+                "photo": "rpg_character_design.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "You are your environmental",
+                "short_description": "Editorial Illustration for an environmental magazine.",
+                "client": "GreenWorld Magazine",
+                "photo": "eco_editorial.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Beautiful day",
+                "short_description": "Custom wedding invitation Illustration.",
+                "client": "Private Client",
+                "photo": "wedding_Illustration.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Be funny, be Us!",
+                "short_description": "Mascot Illustration for a kids' clothing brand.",
+                "client": "LittleLions",
+                "photo": "mascot_littlelions.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Beauty outside and inside",
+                "short_description": "Packaging Illustration for a skincare line.",
+                "client": "Glow&Bloom",
+                "photo": "skincare_packaging.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Travel time!",
+                "short_description": "Illustrated map for a tourist brochure.",
+                "client": "TravelMD",
+                "photo": "tourist_map_md.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Fairy tails",
+                "short_description": "Children's book page Illustrations.",
+                "client": "DreamTales Publishing",
+                "photo": "childrens_book_pages.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Illustration for magazine",
+                "short_description": "Digital portrait commission.",
+                "client": "Private Client",
+                "photo": "digital_portrait.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Season's vibes",
+                "short_description": "Seasonal postcard Illustration.",
+                "client": "Inked Greetings",
+                "photo": "holiday_postcard.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Adrian Nguyen",
+        "idCategory": 1,
+        "id": "adrian-nguyen",
+        "photo": "illustrator_designer_2.png",
+        "projects_count": 110,
+        "experience_years": 3,
+        "reviews_count": 7,
+        "about_me": "I'm Adrian, a dedicated Illustrator who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Illustrator",
+        "works": [
+            {
+                "type": "Illustration",
+                "name": "Trendy cover for children's magazine",
+                "short_description": "Illustration for children's magazine spread.",
+                "client": "LumoLab",
+                "photo": "illustrator_designer_2_work_1.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Enigmatic and powerful concept of hero",
+                "short_description": "Concept art for indie video game.",
+                "client": "DesignNest",
+                "photo": "illustrator_designer_2_work_2.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Beauty in watercolors",
+                "short_description": "Poster design with digital painting style.",
+                "client": "StudioNova",
+                "photo": "illustrator_designer_2_work_3.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Not just smart, trendy!",
+                "short_description": "Fantasy character lineup for board game.",
+                "client": "PixelPoint",
+                "photo": "illustrator_designer_2_work_4.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Modern and chick city's people",
+                "short_description": "T-shirt print Illustration with urban theme.",
+                "client": "CreativeHub",
+                "photo": "illustrator_designer_2_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Sophia Martelli",
+        "idCategory": 1,
+        "id": "sophia-martelli",
+        "photo": "illustrator_designer_3.jpg",
+        "projects_count": 120,
+        "experience_years": 4,
+        "reviews_count": 9,
+        "about_me": "I'm Sophia, a dedicated Illustrator who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Illustrator",
+        "works": [
+             {
+                "type": "Illustration",
+                "name": "Trendy cover for children's magazine",
+                "short_description": "Illustration for children's magazine spread.",
+                "client": "LumoLab",
+                "photo": "illustrator_designer_2_work_1.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Enigmatic and powerful concept of hero",
+                "short_description": "Concept art for indie video game.",
+                "client": "DesignNest",
+                "photo": "illustrator_designer_2_work_2.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Beauty in watercolors",
+                "short_description": "Poster design with digital painting style.",
+                "client": "StudioNova",
+                "photo": "illustrator_designer_2_work_3.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Not just smart, trendy!",
+                "short_description": "Fantasy character lineup for board game.",
+                "client": "PixelPoint",
+                "photo": "illustrator_designer_2_work_4.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Modern and chick city's people",
+                "short_description": "T-shirt print Illustration with urban theme.",
+                "client": "CreativeHub",
+                "photo": "illustrator_designer_2_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Jonas Eriksson",
+        "idCategory": 1,
+        "id": "jonas-erksson",
+        "photo": "illustrator_designer_4.jpg",
+        "projects_count": 130,
+        "experience_years": 5,
+        "reviews_count": 11,
+        "about_me": "I'm Jonas, a dedicated Illustrator who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Illustrator",
+        "works": [
+             {
+                "type": "Illustration",
+                "name": "Trendy cover for children's magazine",
+                "short_description": "Illustration for children's magazine spread.",
+                "client": "LumoLab",
+                "photo": "illustrator_designer_2_work_1.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Enigmatic and powerful concept of hero",
+                "short_description": "Concept art for indie video game.",
+                "client": "DesignNest",
+                "photo": "illustrator_designer_2_work_2.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Beauty in watercolors",
+                "short_description": "Poster design with digital painting style.",
+                "client": "StudioNova",
+                "photo": "illustrator_designer_2_work_3.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Not just smart, trendy!",
+                "short_description": "Fantasy character lineup for board game.",
+                "client": "PixelPoint",
+                "photo": "illustrator_designer_2_work_4.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Modern and chick city's people",
+                "short_description": "T-shirt print Illustration with urban theme.",
+                "client": "CreativeHub",
+                "photo": "illustrator_designer_2_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Maya Patel",
+        "idCategory": 1,
+        "id": "maya-patel",
+        "photo": "illustrator_designer_5.jpg",
+        "projects_count": 140,
+        "experience_years": 6,
+        "reviews_count": 13,
+        "about_me": "I'm Maya, a dedicated Illustrator who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Illustrator",
+        "works": [
+            {
+                "type": "Illustration",
+                "name": "Trendy cover for children's magazine",
+                "short_description": "Illustration for children's magazine spread.",
+                "client": "LumoLab",
+                "photo": "illustrator_designer_2_work_1.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Enigmatic and powerful concept of hero",
+                "short_description": "Concept art for indie video game.",
+                "client": "DesignNest",
+                "photo": "illustrator_designer_2_work_2.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Beauty in watercolors",
+                "short_description": "Poster design with digital painting style.",
+                "client": "StudioNova",
+                "photo": "illustrator_designer_2_work_3.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Not just smart, trendy!",
+                "short_description": "Fantasy character lineup for board game.",
+                "client": "PixelPoint",
+                "photo": "illustrator_designer_2_work_4.jpg"
+            },
+            {
+                "type": "Illustration",
+                "name": "Modern and chick city's people",
+                "short_description": "T-shirt print Illustration with urban theme.",
+                "client": "CreativeHub",
+                "photo": "illustrator_designer_2_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Sorin Cavaleru",
+        "idCategory": 2,
+        "id": "sorin-cavaleru",
+        "photo": "uiux_designer_1.jpg",
+        "projects_count": 100,
+        "experience_years": 2,
+        "reviews_count": 5,
+        "about_me": "I'm Sorin, a dedicated UI/UX Designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "UI/UX Designer",
+        "works": [
+            {
+                "type": "UI/UX Design",
+                "name": "Eco stratup website",
+                "short_description": "Landing page design for eco startup.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_1.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Finance tracker website",
+                "short_description": "Mobile app UI for personal finance tracker.",
+                "client": "Visionary Media",
+                "photo": "uiux_designer_1_work_2.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "E-commerce website",
+                "short_description": "Wireframe and prototype for e-commerce app.",
+                "client": "LumoLab",
+                "photo": "uiux_designer_1_work_3.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "SaaS analytics website",
+                "short_description": "Dashboard UX for SaaS analytics tool.",
+                "client": "BrightIdeas",
+                "photo": "uiux_designer_1_work_4.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Non proft organization website",
+                "short_description": "Redesign of nonprofit organization's website.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Viorica Burlac",
+        "idCategory": 2,
+        "id": "viorica-burlacu",
+        "photo": "uiux_designer_2.jpg",
+        "projects_count": 110,
+        "experience_years": 3,
+        "reviews_count": 7,
+        "about_me": "I'm Viorica, a dedicated UI/UX Designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "UI/UX Designer",
+        "works": [
+             {
+                "type": "UI/UX Design",
+                "name": "Eco stratup website",
+                "short_description": "Landing page design for eco startup.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_1.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Finance tracker website",
+                "short_description": "Mobile app UI for personal finance tracker.",
+                "client": "Visionary Media",
+                "photo": "uiux_designer_1_work_2.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "E-commerce website",
+                "short_description": "Wireframe and prototype for e-commerce app.",
+                "client": "LumoLab",
+                "photo": "uiux_designer_1_work_3.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "SaaS analytics website",
+                "short_description": "Dashboard UX for SaaS analytics tool.",
+                "client": "BrightIdeas",
+                "photo": "uiux_designer_1_work_4.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Non proft organization website",
+                "short_description": "Redesign of nonprofit organization's website.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Cornel Havaliuc",
+        "idCategory": 2,
+        "id": "cornel-havaliuc",
+        "photo": "uiux_designer_3.jpg",
+        "projects_count": 120,
+        "experience_years": 4,
+        "reviews_count": 9,
+        "about_me": "I'm Cornel, a dedicated UI/UX Designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "UI/UX Designer",
+        "works": [
+             {
+                "type": "UI/UX Design",
+                "name": "Eco stratup website",
+                "short_description": "Landing page design for eco startup.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_1.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Finance tracker website",
+                "short_description": "Mobile app UI for personal finance tracker.",
+                "client": "Visionary Media",
+                "photo": "uiux_designer_1_work_2.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "E-commerce website",
+                "short_description": "Wireframe and prototype for e-commerce app.",
+                "client": "LumoLab",
+                "photo": "uiux_designer_1_work_3.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "SaaS analytics website",
+                "short_description": "Dashboard UX for SaaS analytics tool.",
+                "client": "BrightIdeas",
+                "photo": "uiux_designer_1_work_4.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Non proft organization website",
+                "short_description": "Redesign of nonprofit organization's website.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Nadejda Solnecinaia",
+        "idCategory": 2,
+        "id": "nadejda-solnecinaia",
+        "photo": "uiux_designer_4.jpg",
+        "projects_count": 130,
+        "experience_years": 5,
+        "reviews_count": 11,
+        "about_me": "I'm Nadejda, a dedicated UI/UX Designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "UI/UX Designer",
+        "works": [
+             {
+                "type": "UI/UX Design",
+                "name": "Eco stratup website",
+                "short_description": "Landing page design for eco startup.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_1.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Finance tracker website",
+                "short_description": "Mobile app UI for personal finance tracker.",
+                "client": "Visionary Media",
+                "photo": "uiux_designer_1_work_2.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "E-commerce website",
+                "short_description": "Wireframe and prototype for e-commerce app.",
+                "client": "LumoLab",
+                "photo": "uiux_designer_1_work_3.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "SaaS analytics website",
+                "short_description": "Dashboard UX for SaaS analytics tool.",
+                "client": "BrightIdeas",
+                "photo": "uiux_designer_1_work_4.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Non proft organization website",
+                "short_description": "Redesign of nonprofit organization's website.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Marin Patruna",
+        "idCategory": 2,
+        "id": "marin-patruna",
+        "photo": "uiux_designer_5.jpg",
+        "projects_count": 140,
+        "experience_years": 6,
+        "reviews_count": 13,
+        "about_me": "I'm Marin, a dedicated UI/UX Designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "UI/UX Designer",
+        "works": [
+             {
+                "type": "UI/UX Design",
+                "name": "Eco stratup website",
+                "short_description": "Landing page design for eco startup.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_1.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Finance tracker website",
+                "short_description": "Mobile app UI for personal finance tracker.",
+                "client": "Visionary Media",
+                "photo": "uiux_designer_1_work_2.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "E-commerce website",
+                "short_description": "Wireframe and prototype for e-commerce app.",
+                "client": "LumoLab",
+                "photo": "uiux_designer_1_work_3.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "SaaS analytics website",
+                "short_description": "Dashboard UX for SaaS analytics tool.",
+                "client": "BrightIdeas",
+                "photo": "uiux_designer_1_work_4.jpg"
+            },
+            {
+                "type": "UI/UX Design",
+                "name": "Non proft organization website",
+                "short_description": "Redesign of nonprofit organization's website.",
+                "client": "CreativeHub",
+                "photo": "uiux_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Loredana Sirguina",
+        "idCategory": 3,
+        "id": "loredana-sirguina",
+        "photo": "branding_designer_1.jpg",
+        "projects_count": 100,
+        "experience_years": 2,
+        "reviews_count": 5,
+        "about_me": "I'm Loredana, a dedicated branding designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Branding Designer",
+        "works": [
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Full branding package for yoga studio.",
+                "client": "BrightIdeas",
+                "photo": "branding_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Logo and style guide for tech startup.",
+                "client": "FreshFrame",
+                "photo": "branding_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Packaging and brand visuals for coffee brand.",
+                "client": "StudioNova",
+                "photo": "branding_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Visual identity refresh for law firm.",
+                "client": "Visionary Media",
+                "photo": "branding_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Event branding for international tech conference.",
+                "client": "StudioNova",
+                "photo": "branding_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Maxmiliana Voinicu",
+        "idCategory": 3,
+        "id": "maximilian-voinicu",
+        "photo": "branding_designer_2.jpg",
+        "projects_count": 110,
+        "experience_years": 3,
+        "reviews_count": 7,
+        "about_me": "I'm Maxmilian, a dedicated branding designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Branding Designer",
+        "works": [
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Full branding package for yoga studio.",
+                "client": "Visionary Media",
+                "photo": "branding_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Logo and style guide for tech startup.",
+                "client": "NextBrand",
+                "photo": "branding_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Packaging and brand visuals for coffee brand.",
+                "client": "NextBrand",
+                "photo": "branding_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Visual identity refresh for law firm.",
+                "client": "DesignNest",
+                "photo": "branding_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Event branding for international tech conference.",
+                "client": "UrbanDesigners",
+                "photo": "branding_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Ornela Timisor",
+        "idCategory": 3,
+        "id": "ornela timisor",
+        "photo": "branding_designer_3.jpg",
+        "projects_count": 120,
+        "experience_years": 4,
+        "reviews_count": 9,
+        "about_me": "I'm Ornela, a dedicated branding designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Branding Designer",
+        "works": [
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Full branding package for yoga studio.",
+                "client": "CreativeHub",
+                "photo": "branding_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Logo and style guide for tech startup.",
+                "client": "BrightIdeas",
+                "photo": "branding_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Packaging and brand visuals for coffee brand.",
+                "client": "UrbanDesigners",
+                "photo": "branding_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Visual identity refresh for law firm.",
+                "client": "CreativeHub",
+                "photo": "branding_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Event branding for international tech conference.",
+                "client": "BrightIdeas",
+                "photo": "branding_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Dorina Zuicu",
+        "idCategory": 3,
+        "id": "dorina-zuicu",
+        "photo": "branding_designer_4.jpg",
+        "projects_count": 130,
+        "experience_years": 5,
+        "reviews_count": 11,
+        "about_me": "I'm Dorina, a dedicated branding designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Branding Designer",
+        "works": [
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Full branding package for yoga studio.",
+                "client": "BrightIdeas",
+                "photo": "branding_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Logo and style guide for tech startup.",
+                "client": "NextBrand",
+                "photo": "branding_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Packaging and brand visuals for coffee brand.",
+                "client": "CreativeHub",
+                "photo": "branding_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Visual identity refresh for law firm.",
+                "client": "Visionary Media",
+                "photo": "branding_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Event branding for international tech conference.",
+                "client": "CreativeHub",
+                "photo": "branding_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Dan Tutun",
+        "idCategory": 3,
+        "id": "dan-tutun",
+        "photo": "branding_designer_5.jpg",
+        "projects_count": 140,
+        "experience_years": 6,
+        "reviews_count": 13,
+        "about_me": "I'm Dan, a dedicated branding designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Branding Designer",
+        "works": [
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Full branding package for yoga studio.",
+                "client": "StudioNova",
+                "photo": "branding_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Logo and style guide for tech startup.",
+                "client": "DesignNest",
+                "photo": "branding_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Packaging and brand visuals for coffee brand.",
+                "client": "UrbanDesigners",
+                "photo": "branding_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Visual identity refresh for law firm.",
+                "client": "UrbanDesigners",
+                "photo": "branding_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Branding",
+                "name": "One day",
+                "short_description": "Event branding for international tech conference.",
+                "client": "DesignNest",
+                "photo": "branding_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Vasilisa Zaitseva",
+        "idCategory": 4,
+        "id": "vasilisa-zaitseva",
+        "photo": "social_designer_1.jpg",
+        "projects_count": 100,
+        "experience_years": 2,
+        "reviews_count": 5,
+        "about_me": "I'm Vasilisa, a dedicated social media content designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Social Media Designer",
+        "works": [
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Instagram carousel for new product launch.",
+                "client": "Visionary Media",
+                "photo": "social_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Reel animation for beauty brand campaign.",
+                "client": "FreshFrame",
+                "photo": "social_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Social post templates for fashion boutique.",
+                "client": "BrightIdeas",
+                "photo": "social_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Visual key for travel influencer's page.",
+                "client": "PixelPoint",
+                "photo": "social_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Content strategy visuals for wellness brand.",
+                "client": "CreativeHub",
+                "photo": "social_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Ionela Maiduc",
+        "idCategory": 4,
+        "id": "ionela-maiduc",
+        "photo": "social_designer_2.jpg",
+        "projects_count": 110,
+        "experience_years": 3,
+        "reviews_count": 7,
+        "about_me": "I'm Ionela, a dedicated social media content designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Social Media Designer",
+        "works": [
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Instagram carousel for new product launch.",
+                "client": "UrbanDesigners",
+                "photo": "social_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Reel animation for beauty brand campaign.",
+                "client": "Visionary Media",
+                "photo": "social_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Social post templates for fashion boutique.",
+                "client": "BrightIdeas",
+                "photo": "social_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Visual key for travel influencer's page.",
+                "client": "PixelPoint",
+                "photo": "social_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Content strategy visuals for wellness brand.",
+                "client": "CreativeHub",
+                "photo": "social_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Luca Lupu",
+        "idCategory": 4,
+        "id": "luca-lupu",
+        "photo": "social_designer_3.jpg",
+        "projects_count": 120,
+        "experience_years": 4,
+        "reviews_count": 9,
+        "about_me": "I'm Luca, a dedicated social media content designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Social Media Designer",
+        "works": [
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Instagram carousel for new product launch.",
+                "client": "LumoLab",
+                "photo": "social_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Reel animation for beauty brand campaign.",
+                "client": "DesignNest",
+                "photo": "social_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Social post templates for fashion boutique.",
+                "client": "Visionary Media",
+                "photo": "social_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Visual key for travel influencer's page.",
+                "client": "BrightIdeas",
+                "photo": "social_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Content strategy visuals for wellness brand.",
+                "client": "UrbanDesigners",
+                "photo": "social_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Ursula Marandici",
+        "idCategory": 4,
+        "id": "ursula-marandici",
+        "photo": "social_designer_4.jpg",
+        "projects_count": 130,
+        "experience_years": 5,
+        "reviews_count": 11,
+        "about_me": "I'm Ursula, a dedicated social media content designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Social Media Designer",
+        "works": [
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Instagram carousel for new product launch.",
+                "client": "UrbanDesigners",
+                "photo": "social_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Reel animation for beauty brand campaign.",
+                "client": "BrightIdeas",
+                "photo": "social_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Social post templates for fashion boutique.",
+                "client": "BrightIdeas",
+                "photo": "social_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Visual key for travel influencer's page.",
+                "client": "FreshFrame",
+                "photo": "social_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Content strategy visuals for wellness brand.",
+                "client": "LumoLab",
+                "photo": "social_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Grigore Urlachi",
+        "idCategory": 4,
+        "id": "grigore-urlachi",
+        "photo": "social_designer_5.jpg",
+        "projects_count": 140,
+        "experience_years": 6,
+        "reviews_count": 13,
+        "about_me": "I'm Grigore, a dedicated social media content designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Social Media Designer",
+        "works": [
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Instagram carousel for new product launch.",
+                "client": "NextBrand",
+                "photo": "social_designer_1_work_1.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Reel animation for beauty brand campaign.",
+                "client": "FreshFrame",
+                "photo": "social_designer_1_work_2.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Social post templates for fashion boutique.",
+                "client": "StudioNova",
+                "photo": "social_designer_1_work_3.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Visual key for travel influencer's page.",
+                "client": "BrightIdeas",
+                "photo": "social_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Social Media Design",
+                "name": "Second day in March",
+                "short_description": "Content strategy visuals for wellness brand.",
+                "client": "BrightIdeas",
+                "photo": "social_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Tristan Ocnap",
+        "idCategory": 5,
+        "id": "tristan-ocnap",
+        "photo": "motion_designer_1.jpg",
+        "projects_count": 100,
+        "experience_years": 2,
+        "reviews_count": 5,
+        "about_me": "I'm Tristan, a dedicated motion designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Motion Designer",
+        "works": [
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Explainer video animation for fintech company.",
+                "client": "LumoLab",
+                "photo": "motion_designer_1_work_1.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Intro animation for YouTube channel.",
+                "client": "CreativeHub",
+                "photo": "motion_designer_1_work_2.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "3D product animation for ad campaign.",
+                "client": "StudioNova",
+                "photo": "motion_designer_1_work_3.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Motion graphics for event opener.",
+                "client": "LumoLab",
+                "photo": "motion_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Animated logo reveal for design agency.",
+                "client": "NextBrand",
+                "photo": "motion_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Nastea Cuceriavik",
+        "photo": "motion_designer_2.jpg",
+        "idCategory": 5,
+        "id": "nastea-cuceriavik",
+        "projects_count": 110,
+        "experience_years": 3,
+        "reviews_count": 7,
+        "about_me": "I'm Nastea, a dedicated motion designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Motion Designer",
+        "works": [
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Explainer video animation for fintech company.",
+                "client": "FreshFrame",
+                "photo": "motion_designer_1_work_1.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Intro animation for YouTube channel.",
+                "client": "UrbanDesigners",
+                "photo": "motion_designer_1_work_2.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "3D product animation for ad campaign.",
+                "client": "LumoLab",
+                "photo": "motion_designer_1_work_3.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Motion graphics for event opener.",
+                "client": "BrightIdeas",
+                "photo": "motion_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Animated logo reveal for design agency.",
+                "client": "CreativeHub",
+                "photo": "motion_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Iurie Odisei",
+        "photo": "motion_designer_3.jpg",
+        "idCategory": 5,
+        "id": "iurie-odisei",
+        "projects_count": 120,
+        "experience_years": 4,
+        "reviews_count": 9,
+        "about_me": "I'm Iurie, a dedicated motion designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Motion Designer",
+        "works": [
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Explainer video animation for fintech company.",
+                "client": "FreshFrame",
+                "photo": "motion_designer_1_work_1.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Intro animation for YouTube channel.",
+                "client": "UrbanDesigners",
+                "photo": "motion_designer_1_work_2.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "3D product animation for ad campaign.",
+                "client": "LumoLab",
+                "photo": "motion_designer_1_work_3.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Motion graphics for event opener.",
+                "client": "BrightIdeas",
+                "photo": "motion_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Animated logo reveal for design agency.",
+                "client": "CreativeHub",
+                "photo": "motion_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Marina Jalbu",
+        "photo": "motion_designer_4.jpg",
+        "id": "marina-jalbu",
+        "projects_count": 130,
+        "experience_years": 5,
+        "reviews_count": 11,
+        "about_me": "I'm Marina, a dedicated motion designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Motion Designer",
+        "works": [
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Explainer video animation for fintech company.",
+                "client": "FreshFrame",
+                "photo": "motion_designer_1_work_1.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Intro animation for YouTube channel.",
+                "client": "UrbanDesigners",
+                "photo": "motion_designer_1_work_2.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "3D product animation for ad campaign.",
+                "client": "LumoLab",
+                "photo": "motion_designer_1_work_3.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Motion graphics for event opener.",
+                "client": "BrightIdeas",
+                "photo": "motion_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Animated logo reveal for design agency.",
+                "client": "CreativeHub",
+                "photo": "motion_designer_1_work_5.jpg"
+            }
+        ]
+    },
+    {
+        "full_name": "Felix Canareica",
+        "photo": "motion_designer_5.jpg",
+        "idCategory": 5,
+        "id": "felix-canareica",
+        "projects_count": 140,
+        "experience_years": 6,
+        "reviews_count": 13,
+        "about_me": "I'm Felicia, a dedicated motion designer who transforms ideas into powerful visuals. My career started with a love for design and evolved into a passion for crafting experiences. I specialize in unique and compelling creations tailored to client goals. Collaboration and clear communication are core to my process. I find inspiration in everyday moments and global trends. Every project is an opportunity to learn, grow, and innovate. I focus on both beauty and functionality in my designs. I'm excited to help brands visually express their stories in new ways. Working with both startups and established names has shaped my versatility. Let's build something memorable together!",
+        "role": "Motion Designer",
+        "works": [
+           {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Explainer video animation for fintech company.",
+                "client": "FreshFrame",
+                "photo": "motion_designer_1_work_1.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Intro animation for YouTube channel.",
+                "client": "UrbanDesigners",
+                "photo": "motion_designer_1_work_2.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "3D product animation for ad campaign.",
+                "client": "LumoLab",
+                "photo": "motion_designer_1_work_3.png"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Motion graphics for event opener.",
+                "client": "BrightIdeas",
+                "photo": "motion_designer_1_work_4.jpg"
+            },
+            {
+                "type": "Motion Video",
+                "name": "Here is a video",
+                "short_description": "Animated logo reveal for design agency.",
+                "client": "CreativeHub",
+                "photo": "motion_designer_1_work_5.jpg"
+            }
+        ]
+    }
+]

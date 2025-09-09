@@ -1,0 +1,132 @@
+[
+    {
+        "category": "Illustration",
+        "image": "illustration_category.png",
+        "subcategory": [
+            {
+                "name": "Simple Illustration",
+                "price-min": 50,
+                "price-max": 80
+            },
+            {
+                "name": "Detailed Illustration",
+                "price-min": 100,
+                "price-max": 150
+            },
+            {
+                "name": "Character Design",
+                "price-min": 180,
+                "price-max": 300
+            },
+            {
+                "name": "Concept Art",
+                "price-min": 150,
+                "price-max": 250
+            }
+        ]
+    },
+    {
+        "category": "UI/UX Design",
+        "image": "uiux_category.png",
+        "subcategory": [
+            {
+                "name": "Landing Page Design",
+                "price-min": 200,
+                "price-max": 300
+            },
+            {
+                "name": "Multi-page Website",
+                "price-min": 500,
+                "price-max": 800
+            },
+            {
+                "name": "Mobile App Design",
+                "price-min": 400,
+                "price-max": 600
+            },
+            {
+                "name": "Wireframing & Prototyping",
+                "price-min": 100,
+                "price-max": 150
+            }
+        ]
+    },
+    {
+        "category": "Branding",
+        "image": "branding_category.png",
+        "subcategory": [
+            {
+                "name": "Logo Design",
+                "price-min": 100,
+                "price-max": 150
+            },
+            {
+                "name": "Brand Guidelines",
+                "price-min": 200,
+                "price-max": 300
+            },
+            {
+                "name": "Complete Branding Package",
+                "price-min": 500,
+                "price-max": 700
+            },
+            {
+                "name": "Business Cards & Stationery",
+                "price-min": 80,
+                "price-max": 120
+            }
+        ]
+    },
+    {
+        "category": "Social Media Content",
+        "image": "socialmediacontent_category.png",
+        "subcategory": [
+            {
+                "name": "Static Post",
+                "price-min": 20,
+                "price-max": 30
+            },
+            {
+                "name": "Visual Key Design",
+                "price-min": 50,
+                "price-max": 80
+            },
+            {
+                "name": "Reels (15-30 sec)",
+                "price-min": 100,
+                "price-max": 150
+            },
+            {
+                "name": "Carousel Post",
+                "price-min": 40,
+                "price-max": 60
+            }
+        ]
+    },
+    {
+        "category": "Motion Video",
+        "image": "motionvideo_category.png",
+        "subcategory": [
+            {
+                "name": "Short Animated Ad (15sec)",
+                "price-min": 150,
+                "price-max": 200
+            },
+            {
+                "name": "Explainer Video (30sec)",
+                "price-min": 250,
+                "price-max": 400
+            },
+            {
+                "name": "Product Promo (1min)",
+                "price-min": 400,
+                "price-max": 600
+            },
+            {
+                "name": "Detailed Illustration",
+                "price-min": 150,
+                "price-max": 250
+            }
+        ]
+    }
+]
